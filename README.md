@@ -11,8 +11,8 @@ I care less about demos that only work once and more about systems that remain *
 | Project | What it demonstrates |
 | --- | --- |
 | **[Pi-One Harness Preview](https://github.com/Patrickpoix/pi-one-harness-preview)** | Partial public source preview of my independently developed Pi-One AI Agent Harness. The active full Pi-One development repository remains private while the current convergence work is still in progress. |
-| **[SA Research OS](https://github.com/Patrickpoix/sa-research-os)** | Point-in-time quantitative research core for CN and US equities: membership/identity/availability contracts, bounded factor research, trial ledger, cost-aware backtesting and sealed Test/Holdout boundaries. |
-| **[Longbridge Research OS](https://github.com/Patrickpoix/longbridge-research-os)** | Local-first CN/HK/US research terminal with immutable Run/Edition evidence, portfolio/risk analytics, research-session diagnostics and read-only broker/data boundaries. |
+| **[SA Research OS Preview](https://github.com/Patrickpoix/sa-research-os-preview)** | Recruiter-safe overview of my private CN/US point-in-time quantitative research system. Source code, research data, factor definitions, backtest internals and core architecture remain private. |
+| **[Longbridge Research OS Preview](https://github.com/Patrickpoix/longbridge-research-preview)** | Recruiter-safe overview of my private CN/HK/US research terminal. Source code, account/broker data, ranking logic, policy parameters and core architecture remain private. |
 
 ## Selected engineering scale
 
@@ -46,5 +46,5 @@ Alongside engineering work, I have buy-side and sell-side research experience co
 
 ---
 
-Public repositories intentionally exclude personal account data, broker credentials, licensed/private datasets, browser authentication state and unpublished research evidence.
+Public repositories intentionally exclude personal account data, broker credentials, licensed/private datasets, browser authentication state, proprietary research logic, policy parameters, and core private architecture.
 
